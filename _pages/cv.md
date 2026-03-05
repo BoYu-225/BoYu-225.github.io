@@ -11,43 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematical and Physical Sciences and Software Engineering, Tsinghua University, 2025-2028(expected)
+* B.S. in Mathematical and Physical Sciences and Material Science and Engineering, Tsinghua University, 2023-2025
 
-Work experience
+Social Work and Service
 ======
-* Spring 2024: Academic Pages Collaborator
+* Dec 2024 – Dec 2025: Vice President of Academic Department, Weiyang College Student Association for Science and Technology
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2024 – Sep 2025: Member of the Intensive Class, Comprehensive Deputy Captain, Student Art Troupe Crosstalk Team, Tsinghua University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024 - 2025: Undergraduate Luminosity Program, Tsinghua University – Design and Development of Biological Tissue-Driven Cellular Robots
+  * Supervisor: Prof.Zhuo Xiong in Department of Mechanical Engineering
+  * Addressing the issue of insufficient output power of existing in vitro engineered muscle bundles for cellular robots, this research investigates a method based on mechanically enhanced myocardial bundle components.
+  * Optimized the scaffold design, reducing the elastic coefficient to 12.7% of its original value; Explored a motion capability evaluation system and produced 1 patent.
+* 2025 - present: Research on Solving Mixed Integer Programming Problems Using Deep Learning Algorithms
+  * Supervisor: Prof.Hua Xu in the Department of Computer Science
+  * To tackle the challenge that existing machine learning methods lack generalization across domains and problems when solving MILP, this research conducts studies on MILP embedding models.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  No publications listed yet.
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
