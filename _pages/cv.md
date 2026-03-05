@@ -44,12 +44,8 @@ Presentations
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2023 -- 2024 Comprehensive Excellence Scholarship
+* 2024 -- 2025 Comprehensive Excellence Scholarship
