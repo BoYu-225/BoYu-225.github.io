@@ -1,5 +1,5 @@
 ---
-title: "The series of lecture on deep learning for Weiyang College Student Association for Science and Technology"
+title: "lectures on deep learning for Weiyang College Student Association for Science and Technology"
 collection: talks
 type: "Lecture series"
 permalink: /talks/2024-12-01-weiyang-deep-learning
