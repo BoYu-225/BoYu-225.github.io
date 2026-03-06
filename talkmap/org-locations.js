@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "\u672a\u592e\u4e66\u9662\u6df1\u5ea6\u5b66\u4e60\u7cfb\u5217<br />Weiyang College, Tsinghua University; Beijing, China",
+    39.9057136,
+    116.3912972
+  ],
+  [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
