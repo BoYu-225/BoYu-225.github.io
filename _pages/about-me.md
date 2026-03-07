@@ -4,17 +4,6 @@ title: "About Me"
 author_profile: true
 ---
 
-## Hi there!
-
-Welcome to my personal website!
-
----
-
-## About Me
-
-I am an undergraduate student who major in mathematical and Physical Sciences and Software Engineering in Tsinghua University.
-
----
 
 ## Research Interests
 
