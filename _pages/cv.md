@@ -52,4 +52,4 @@ Awards
 ======
 * 2023 -- 2024&nbsp;&nbsp;&nbsp;Comprehensive Excellence Scholarship
 * 2024 -- 2025&nbsp;&nbsp;&nbsp;Comprehensive Excellence Scholarship, Academic Excellence Scholarship
-* 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third Prize in the 43rd "Challenge Cup" of Tsinghua University(Co-first author)
+* 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third Prize in the 43rd "Challenge Cup" of Tsinghua University(Co-first author)
