@@ -35,7 +35,7 @@ Projects
 * **2025 : The First Radiation Imaging Competition of the Department of Engineering Physics**
   * Competition on multi-center abdominal CT segmentation (15 organs, 500+ images) using neural networks.
   * Awarded with the Second Prize.
-* **2025 : Developing an AI agent "Weixiaoyang" of WYAST(ongoing)**
+* **2026 : Developing an AI agent "Weixiaoyang" of WYAST(ongoing)**
 
 Publications
 ======
