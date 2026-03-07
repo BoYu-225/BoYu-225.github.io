@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematical and Physical Sciences and Software Engineering, Tsinghua University, *Sept 2025 – July 2028 (Expected)*
-  * GPA：3.92/4.00
-  * Core Courses: Calculus A(1)(2) (A), Linear Algebra (A+), Probability and Statistics (A), Statistical Inference (A), Math Physics Equations (A), Fundamental Physics (1)(2)(3) (A-/A/A), Computer Programming (A), Data Structures (A)
+  * **GPA：3.92/4.00**
+  * **Core Courses**: Calculus A(1)(2) (A), Linear Algebra (A+), Probability and Statistics (A), Statistical Inference (A), Math Physics Equations (A), Fundamental Physics (1)(2)(3) (A-/A/A), Computer Programming (A), Data Structures (A)
   * Transferred from B.S. in Material Science and Engineering *(Sept 2023 – July 2025)*
 
 Social Work and Service
